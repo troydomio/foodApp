@@ -41,22 +41,20 @@
 //create a form that allows users to leave a review
     let reviewForm = document.createElement("form");
     reviewForm.setAttribute("class", "review_form")
-    // reviewForm.setAttribute("method", "post");
-    // reviewForm.setAttribute("action", "submit");
     let review = document.createElement("input");
     review.setAttribute("type", "text");
     review.setAttribute("name", "review");
     review.setAttribute("placeholder", "Leave a review...");
     let reviewButton = document.createElement("button");
     reviewButton.setAttribute("type", "submit");
-    reviewButton.setAttribute("value", "Submit")
     reviewButton.textContent = "Submit"
     reviewForm.append(review, reviewButton)
 
     let ul = document.createElement("ul")
-    
-    reviewButton.addEventListener("submit", (e) => {
+
+    reviewForm.addEventListener("submit", (e) => {
         e.preventDefault()
+        console.log("hello")
         let newReview = document.createElement("li")
         newReview.textContent = e.target.review.value
         ul.append(newReview)
