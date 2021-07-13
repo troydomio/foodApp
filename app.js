@@ -54,7 +54,6 @@
 
     reviewForm.addEventListener("submit", (e) => {
         e.preventDefault()
-        console.log("hello")
         let newReview = document.createElement("li")
         newReview.textContent = e.target.review.value
         ul.append(newReview)
