@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* layout */
 body {
   font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
@@ -25,7 +31,7 @@ h1 {
 }
 
 #search-form input {
-  width: 50%;
+  width: 99%;
   border: 1px solid rgba(34, 36, 38, 0.15);
   padding: 12px;
   min-height: 40px;
