@@ -1,13 +1,10 @@
-document.addEventListener('DOMContentLoaded', ()=>{
-    fetchData()
-})
 const form = document.querySelector('#search-form')
+
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     let query = e.target.search.value
-    fetchData(query)
     
-
+    form.innerHTML = fetchData(query)
 })
 
 function fetchData(query){
