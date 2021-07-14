@@ -1,0 +1,99 @@
+/* mini reset */
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+/* layout */
+body {
+  font-family: Lato, "Helvetica Neue", Helvetica, sans-serif;
+  color: #000;
+  font-size: 14px;
+  transition: all 0.2s;
+  background-color: #fdfcdc;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#main {
+  padding: 0.5rem;
+  background-color: #00afb9;
+  color: #fff;
+}
+
+#search-form input {
+  width: 50%;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  padding: 12px;
+  min-height: 40px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 100px;
+  margin: 0;
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+#search-form button[type="submit"] {
+  margin: 0;
+  width: auto;
+  padding: 12px;
+  min-height: 40px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 100px;
+  margin-left: -80px;
+  background-color: #0081a7;
+}
+#search-form button[type="submit"]:hover {
+  background-color: #f07167;
+  color: white;
+}
+
+#search-results {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Rating */
+
+.rate {
+  float: left;
+  height: 46px;
+  padding: 0 10px;
+}
+.rate:not(:checked) > input {
+  position: absolute;
+  top: -9999px;
+}
+.rate:not(:checked) > label {
+  float: right;
+  width: 1em;
+  overflow: hidden;
+  white-space: nowrap;
+  cursor: pointer;
+  font-size: 30px;
+  color: #ccc;
+}
+.rate:not(:checked) > label:before {
+  content: "★ ";
+}
+.rate > input:checked ~ label {
+  color: #ffc700;
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}
