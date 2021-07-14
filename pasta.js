@@ -8,7 +8,9 @@ let requestOptions = {
     .then(result => {
         console.log(result)
         let btn = document.querySelector('input')
-        btn.addEventListener('click', console.log('clicked'))
+        btn.addEventListener('click', function(){
+            fetch(`${BASEURL}${apiKey}${results[0].id}`)
+        })
 
     })
     .catch(error => console.log('error', error));
