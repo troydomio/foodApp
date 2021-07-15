@@ -1,9 +1,12 @@
+const dotenv = require('dotenv').config();
+console.log(process.env)
+const API_KEY = process.env.API_KEY;
+
 const form = document.querySelector('#search-form')
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     let query = e.target.search.value
     fetchData(query)
-
 })
 
 function fetchData(query){
