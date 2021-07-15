@@ -1,16 +1,44 @@
 const form = document.querySelector('#search-form')
-
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     let query = e.target.search.value
-    
-    form.innerHTML = fetchData(query)
+    fetchData(query)
+
 })
 
 function fetchData(query){
-    fetch('http://localhost:3000/results')
-    .then(res => res.json())
-    .then(data => data.forEach(renderMealsCard))
+    let requestOptions = {
+        method: 'GET',
+        redirect: 'follow'
+      };
+      
+      fetch(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${API_KEY}&query=${query}`, requestOptions)
+        .then(response => response.json())
+        .then(result => result.results.forEach(renderMealsCard) )//result.forEach(renderMealsCard))
+        .catch(error => console.log('error', error));
+    
+}
+function renderRecipe(recipe, modal){
+    let id = recipe.id 
+
+    let requestOptions = {
+        method: 'GET',
+        redirect: 'follow'
+      };
+      
+    fetch(`https://api.spoonacular.com/recipes/${id}/card?apiKey=${API_KEY}`, requestOptions)
+    .then(response => response.json())
+    .then(result => { console.log(result)
+        let url = result.url
+        
+    let img = document.createElement('img')
+    if(result){img.src = url}
+    let body = document.querySelector('body')
+    body.innerHTML = ""
+    body.appendChild(img)
+    
+    })
+    .catch(error => console.log('error', error));
     
 }
 
@@ -34,7 +62,7 @@ function rating(){
 
 function createModal(){
     return (`<!-- Trigger/Open The Modal -->
-        <button id="myBtn">Open Modal</button>
+        <button id="myBtn">Recipe Card</button>
         
         <!-- The Modal -->
         <div id="myModal" class="modal">
@@ -55,10 +83,11 @@ function renderMealsCard(mealInfo){
     title.textContent = mealInfo.title
     img.src = mealInfo.image
 
+    // review stars
     let ratingStars = document.createElement('p')
     ratingStars.innerHTML = rating()
 
-
+    // modal
     let myModal = document.createElement('div')
     myModal.innerHTML = createModal()
 
@@ -98,11 +127,17 @@ function renderMealsCard(mealInfo){
     let btn = document.querySelector('#myBtn');
     let span = document.querySelector('.close');
 
-    btn.addEventListener('click', function() { 
-        modal.style.display = "block";
-        let pText = document.querySelector('.modal-content p')
-        pText.textContent = mealInfo.title;
-    })
+    // btn.addEventListener('click', (e) => { 
+    //     let data = e.target 
+    //     console.log(mealInfo)
+    //     modal.style.display = "block";
+    //     let pText = document.querySelector('.modal-content p')
+    //     pText.textContent = mealInfo.title;
+
+    // })
+    btn.onclick = function() {
+        renderRecipe(mealInfo)
+    }
     span.onclick = function() {modal.style.display = "none";}
     window.onclick = function(event) {
         if (event.target == modal) {modal.style.display = "none";} }

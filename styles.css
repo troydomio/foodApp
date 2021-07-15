@@ -19,16 +19,17 @@ body {
 
 h1 {
   font-size: 40px;
+  align-items: center;
 }
 
-/* #main {
+#main {
   padding: 0.5rem;
   background-color: #00afb9;
   color: #fff;
-} */
+}
 
 #search-form input {
-  width: 80%;
+  width: 50%;
   border: 1px solid rgba(34, 36, 38, 0.15);
   padding: 12px;
   min-height: 40px;
@@ -38,7 +39,6 @@ h1 {
   margin: 0;
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  opacity: 0.5;
 }
 
 #search-form button[type="submit"] {
