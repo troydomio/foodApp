@@ -1,0 +1,2567 @@
+{
+    "results": [
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 12,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 4,
+            "spoonacularScore": 81.0,
+            "healthScore": 42.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 137.24,
+            "id": 642539,
+            "title": "Falafel Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/DYNQRHMK/falafel-burger",
+            "image": "https://spoonacular.com/recipeImages/642539-312x231.png",
+            "imageType": "png",
+            "summary": "You can never have too many middl eastern recipes, so give Falafel Burger a try. For <b>$1.37 per serving</b>, this recipe <b>covers 19%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains around <b>12g of protein</b>, <b>20g of fat</b>, and a total of <b>402 calories</b>. This recipe serves 4. It is brought to you by Foodista. 4 people were impressed by this recipe. Head to the store and pick up onion, garlic, sriracha sauce, and a few other things to make it today. Only a few people really liked this main course. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. It is a good option if you're following a <b>dairy free and lacto ovo vegetarian</b> diet. With a spoonacular <b>score of 81%</b>, this dish is spectacular. Try <a href=\"https://spoonacular.com/recipes/clean-eating-falafel-burger-1063020\">Clean eating falafel burger</a>, <a href=\"https://spoonacular.com/recipes/clean-eating-falafel-burger-848720\">Clean eating falafel burger</a>, and <a href=\"https://spoonacular.com/recipes/falafel-veggie-burger-with-feta-yogurt-sauce-559036\">Falafel Veggie Burger with Feta Yogurt Sauce</a> for similar recipes.",
+            "cuisines": [
+                "Middle Eastern"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Pat the chickpeas dry with a paper towel and throw them into a food processor along with the garlic.",
+                            "ingredients": [
+                                {
+                                    "id": 16057,
+                                    "name": "chickpeas",
+                                    "localizedName": "chickpeas",
+                                    "image": "chickpeas.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "food-processor.png"
+                                },
+                                {
+                                    "id": 405895,
+                                    "name": "paper towels",
+                                    "localizedName": "paper towels",
+                                    "image": "paper-towels.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Puree until smooth.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Using your clean hands incorporate tahini, sriracha, parsley and onion into the chickpea mixture.",
+                            "ingredients": [
+                                {
+                                    "id": 16057,
+                                    "name": "chickpeas",
+                                    "localizedName": "chickpeas",
+                                    "image": "chickpeas.png"
+                                },
+                                {
+                                    "id": 1016168,
+                                    "name": "sriracha",
+                                    "localizedName": "sriracha",
+                                    "image": "hot-sauce-or-tabasco.png"
+                                },
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                },
+                                {
+                                    "id": 12698,
+                                    "name": "tahini",
+                                    "localizedName": "tahini",
+                                    "image": "tahini-paste.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Form mixture into four patties and set aside.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Heat peanut oil in a large skillet over medium heat.",
+                            "ingredients": [
+                                {
+                                    "id": 4042,
+                                    "name": "peanut oil",
+                                    "localizedName": "peanut oil",
+                                    "image": "peanut-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Once the oil begins to shimmer add the patties and cook for three minutes per side or until golden brown.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Remove from and place in a hamburger bun.",
+                            "ingredients": [
+                                {
+                                    "id": 18350,
+                                    "name": "hamburger bun",
+                                    "localizedName": "hamburger bun",
+                                    "image": "hamburger-bun.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Top each burger with 2 slices of tomato, 2 slices of cucumber and a dollop of tzatziki.",
+                            "ingredients": [
+                                {
+                                    "id": 11206,
+                                    "name": "cucumber",
+                                    "localizedName": "cucumber",
+                                    "image": "cucumber.jpg"
+                                },
+                                {
+                                    "id": 93777,
+                                    "name": "tzatziki",
+                                    "localizedName": "tzatziki",
+                                    "image": "raita-or-tzaziki.png"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Serve immediately.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/falafel-burger-642539"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 29,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 65.0,
+            "healthScore": 26.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 296.23,
+            "id": 663357,
+            "title": "The Unagi Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/P7YT5V88/the-unagi-burger",
+            "image": "https://spoonacular.com/recipeImages/663357-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "The Unagi Burger is a main course that serves 4. One portion of this dish contains about <b>52g of protein</b>, <b>60g of fat</b>, and a total of <b>932 calories</b>. For <b>$2.96 per serving</b>, this recipe <b>covers 34%</b> of your daily requirements of vitamins and minerals. 1 person has made this recipe and would make it again. If you have broccoli sprouts, salt, ginger, and a few other ingredients on hand, you can make it. Only a few people really liked this American dish. From preparation to the plate, this recipe takes roughly <b>roughly 45 minutes</b>. It is a good option if you're following a <b>dairy free</b> diet. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 64%</b>, which is good. Similar recipes are <a href=\"https://spoonacular.com/recipes/unagi-chazuke-540743\">Unagi Chazuke</a>, <a href=\"https://spoonacular.com/recipes/eggplant-unagi-donburi-540727\">Eggplant & Unagi Donburi</a>, and <a href=\"https://spoonacular.com/recipes/unagi-kamameshi-iron-pot-rice-with-eel-2782\">Unagi Kamameshi (iron Pot Rice With Eel)</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Wasabi Dressing: 1/2 cup mayonnaise, 1/4 cup sour cream, 2 tablespoons wasabi paste or fresh grated wasabi cream -",
+                            "ingredients": [
+                                {
+                                    "id": 10011990,
+                                    "name": "wasabi paste",
+                                    "localizedName": "wasabi paste",
+                                    "image": "wasabi-paste.png"
+                                },
+                                {
+                                    "id": 4025,
+                                    "name": "mayonnaise",
+                                    "localizedName": "mayonnaise",
+                                    "image": "mayonnaise.png"
+                                },
+                                {
+                                    "id": 1056,
+                                    "name": "sour cream",
+                                    "localizedName": "sour cream",
+                                    "image": "sour-cream.jpg"
+                                },
+                                {
+                                    "id": 11990,
+                                    "name": "wasabi",
+                                    "localizedName": "wasabi",
+                                    "image": "wasabi.jpg"
+                                },
+                                {
+                                    "id": 1053,
+                                    "name": "cream",
+                                    "localizedName": "cream",
+                                    "image": "fluid-cream.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Mix all ingredients well.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Taste it and add a little wasabi paste more if you like it really spicy. This can be made ahead of time and last in the refrigerator for a week or more. I always make extra because it makes a great dip.",
+                            "ingredients": [
+                                {
+                                    "id": 10011990,
+                                    "name": "wasabi paste",
+                                    "localizedName": "wasabi paste",
+                                    "image": "wasabi-paste.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "dip",
+                                    "localizedName": "dip",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Burger patties",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Mix first 7 ingredients together thoroughly then add salt & pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Form patties and pat together tightly. Because of the volume of ingredients in these burgers they will fall apart easily on the grill.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Test one of the patties to see if it is holding up on the grill and not falling apart. These are delicate burgers to cook. Be sure to coat grill with non-stick spray. If its falling apart too much, try browning it in a skillet first so the outside is a little done. B careful not to brown it too much or itll dry out on the grill.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                },
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Brush sesame oil on the inside of the split bakers roll and toast on the upper or outer edges of grill. When rolls are lightly toasted, spread wasabi sauce on top bun and add broccoli sprouts.",
+                            "ingredients": [
+                                {
+                                    "id": 10011001,
+                                    "name": "broccoli sprouts",
+                                    "localizedName": "broccoli sprouts",
+                                    "image": "alfalfa-sprouts.png"
+                                },
+                                {
+                                    "id": 4058,
+                                    "name": "sesame oil",
+                                    "localizedName": "sesame oil",
+                                    "image": "sesame-oil.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 11990,
+                                    "name": "wasabi",
+                                    "localizedName": "wasabi",
+                                    "image": "wasabi.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "Place meat on bottom bun and 2 cucumber ribbons on top of meat. Carefully fold together and you have The Unagi Burger!",
+                            "ingredients": [
+                                {
+                                    "id": 11206,
+                                    "name": "cucumber",
+                                    "localizedName": "cucumber",
+                                    "image": "cucumber.jpg"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/the-unagi-burger-663357"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 12,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 2,
+            "spoonacularScore": 86.0,
+            "healthScore": 72.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 360.92,
+            "id": 651190,
+            "title": "Masala-Tofu Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/DGH6HX5S/masala-tofu-burger",
+            "image": "https://spoonacular.com/recipeImages/651190-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Masala-Tofu Burger could be just the <b>dairy free</b> recipe you've been looking for. This recipe serves 4 and costs $3.61 per serving. This main course has <b>486 calories</b>, <b>19g of protein</b>, and <b>11g of fat</b> per serving. A mixture of tofu - shopping list, cumin powder shopping list, hing shopping list, and a handful of other ingredients are all it takes to make this recipe so delicious. 2 people were glad they tried this recipe. This recipe is typical of American cuisine. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. It is brought to you by Foodista. Overall, this recipe earns an <b>amazing spoonacular score of 87%</b>. Try <a href=\"https://spoonacular.com/recipes/veggie-masala-burger-patty-33366\">Veggie Masala Burger Patty</a>, <a href=\"https://spoonacular.com/recipes/tofu-tikka-masala-248839\">Tofu Tikka Masala</a>, and <a href=\"https://spoonacular.com/recipes/masala-spiced-tofu-scramble-627325\">Masala Spiced Tofu Scramble</a> for similar recipes.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a large skillet over medium-high heat, add spray with a generous amount of PAM and add oil.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add mustard seeds and saute for 30 seconds-till you hear popping noises.",
+                            "ingredients": [
+                                {
+                                    "id": 2024,
+                                    "name": "mustard seeds",
+                                    "localizedName": "mustard seeds",
+                                    "image": "mustard-seeds.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add curry leaves- BE CAREFUL, they pop hot oil!",
+                            "ingredients": [
+                                {
+                                    "id": 93604,
+                                    "name": "curry leaves",
+                                    "localizedName": "curry leaves",
+                                    "image": "curry-leaves.jpg"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "pop",
+                                    "localizedName": "soft drink",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add onions and peppers- sweat for about 30 seconds.",
+                            "ingredients": [
+                                {
+                                    "id": 10111333,
+                                    "name": "peppers",
+                                    "localizedName": "peppers",
+                                    "image": "green-pepper.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add chopped garlic, chilies and turmeric.",
+                            "ingredients": [
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "localizedName": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 11819,
+                                    "name": "chili pepper",
+                                    "localizedName": "chili pepper",
+                                    "image": "red-chili.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Saute for about 5-7 minutes, until the onions and peppers are soft.",
+                            "ingredients": [
+                                {
+                                    "id": 10111333,
+                                    "name": "peppers",
+                                    "localizedName": "peppers",
+                                    "image": "green-pepper.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Add peas and carrots mixture, cumin powder and salt.",
+                            "ingredients": [
+                                {
+                                    "id": 11322,
+                                    "name": "peas and carrots",
+                                    "localizedName": "peas and carrots",
+                                    "image": "peas-and-carrots.jpg"
+                                },
+                                {
+                                    "id": 1012014,
+                                    "name": "ground cumin",
+                                    "localizedName": "ground cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Saute for about 7-10 minutes- you want all the veggies to be soft and cooked through.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 9,
+                            "step": "Meanwhile in a small bowl, add the cubed tofu, a pinch of turmeric, cumin powder, coarse black pepper and some cayenne pepper (totally optional!).",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "coarsely ground black pepper",
+                                    "localizedName": "coarsely ground black pepper",
+                                    "image": "pepper.jpg"
+                                },
+                                {
+                                    "id": 2031,
+                                    "name": "cayenne pepper",
+                                    "localizedName": "cayenne pepper",
+                                    "image": "chili-powder.jpg"
+                                },
+                                {
+                                    "id": 1012014,
+                                    "name": "ground cumin",
+                                    "localizedName": "ground cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "localizedName": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 16213,
+                                    "name": "tofu",
+                                    "localizedName": "tofu",
+                                    "image": "tofu.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "step": "Mix and set aside to marinate for a bit.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "Once the veggies are cooked, add the tofu- saute until slightly brown and soft enough that it crumbles.",
+                            "ingredients": [
+                                {
+                                    "id": 16213,
+                                    "name": "tofu",
+                                    "localizedName": "tofu",
+                                    "image": "tofu.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 12,
+                            "step": "Add juice form half a lemon and half of the chopped cilantro.",
+                            "ingredients": [
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "localizedName": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 1019016,
+                                    "name": "juice",
+                                    "localizedName": "juice",
+                                    "image": "apple-juice.jpg"
+                                },
+                                {
+                                    "id": 9150,
+                                    "name": "lemon",
+                                    "localizedName": "lemon",
+                                    "image": "lemon.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 13,
+                            "step": "Mix and add the diced boiled potato, and toss until everything is coated, soft and taste for salt/spices. Using a masher, mash the mixture until mushy and until the veggies are small. Set aside to cool. Once cooled, add a bit of the breadcrumbs and mix with your hands. Start forming into thick patties (mixture should make 4). If its still giving you a hard time, add more breadcrumbs. Make 4 patties, place on a plate and wrap with plastic wrap until ready to use.",
+                            "ingredients": [
+                                {
+                                    "id": 18079,
+                                    "name": "breadcrumbs",
+                                    "localizedName": "breadcrumbs",
+                                    "image": "breadcrumbs.jpg"
+                                },
+                                {
+                                    "id": 11352,
+                                    "name": "potato",
+                                    "localizedName": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 2035,
+                                    "name": "spices",
+                                    "localizedName": "spices",
+                                    "image": "spices.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                },
+                                {
+                                    "id": 10018364,
+                                    "name": "wrap",
+                                    "localizedName": "wrap",
+                                    "image": "flour-tortilla.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404730,
+                                    "name": "plastic wrap",
+                                    "localizedName": "plastic wrap",
+                                    "image": "plastic-wrap.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 14,
+                            "step": "In a small skillet sprayed with PAM over medium-high heat, add one patty at a time. Cook for about 2 minutes on each side- until browned and crispy.At the same time, saute the thick slices of onion, until charred and slightly soft.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 4679,
+                                    "name": "cooking spray",
+                                    "localizedName": "cooking spray",
+                                    "image": "cooking-spray.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 2,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 15,
+                            "step": "Spread a generous amount of the chutney spread on each side on the bread, place burger, onions tomato and cilantro leaves.",
+                            "ingredients": [
+                                {
+                                    "id": 11165,
+                                    "name": "fresh cilantro",
+                                    "localizedName": "fresh cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "chutney",
+                                    "localizedName": "chutney",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "spread",
+                                    "localizedName": "spread",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 16,
+                            "step": "Serve with a slice of lemon and reduced-fat chips on the side.",
+                            "ingredients": [
+                                {
+                                    "id": 11408,
+                                    "name": "french fries",
+                                    "localizedName": "french fries",
+                                    "image": "french-fries-isolated.jpg"
+                                },
+                                {
+                                    "id": 9150,
+                                    "name": "lemon",
+                                    "localizedName": "lemon",
+                                    "image": "lemon.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/masala-tofu-burger-651190"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 24,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 2,
+            "spoonacularScore": 62.0,
+            "healthScore": 23.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 545.52,
+            "id": 663252,
+            "title": "The Blarney Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/6W7QVCWV/the-blarney-burger",
+            "image": "https://spoonacular.com/recipeImages/663252-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making The Blarney Burger at home. This recipe makes 4 servings with <b>777 calories</b>, <b>52g of protein</b>, and <b>46g of fat</b> each. For <b>$5.46 per serving</b>, this recipe <b>covers 32%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista requires ground sirloin, piccante gorgonzola crumbles, pepper, and worchester. 2 people have made this recipe and would make it again. It works well as a pricey main course. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 61%</b>. This score is pretty good. Similar recipes are <a href=\"https://spoonacular.com/recipes/blarney-stone-204867\">Blarney Stone</a>, <a href=\"https://spoonacular.com/recipes/blarney-stones-445810\">Blarney Stones</a>, and <a href=\"https://spoonacular.com/recipes/blarney-balls-530965\">Blarney Balls</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Irish Mustard Sauce: 1 tbsp cornstarch, 2 tsp sugar, 1 tsp dry mustard, 1/2 tsp salt, 1 cup water, 1 tbsp butter, 1/4 cup vinegar, 1 tsp horseradish, 2 egg yolks, beaten. Put all ingredients in a sauce pan over medium heat. Continue whisking until smooth and thickened to consistency of pudding.",
+                            "ingredients": [
+                                {
+                                    "id": 1002024,
+                                    "name": "mustard powder",
+                                    "localizedName": "mustard powder",
+                                    "image": "dry-mustard.jpg"
+                                },
+                                {
+                                    "id": 1002055,
+                                    "name": "horseradish",
+                                    "localizedName": "horseradish",
+                                    "image": "horseradish.jpg"
+                                },
+                                {
+                                    "id": 20027,
+                                    "name": "corn starch",
+                                    "localizedName": "corn starch",
+                                    "image": "white-powder.jpg"
+                                },
+                                {
+                                    "id": 1125,
+                                    "name": "egg yolk",
+                                    "localizedName": "egg yolk",
+                                    "image": "egg-yolk.jpg"
+                                },
+                                {
+                                    "id": 2046,
+                                    "name": "mustard",
+                                    "localizedName": "mustard",
+                                    "image": "regular-mustard.jpg"
+                                },
+                                {
+                                    "id": 2053,
+                                    "name": "vinegar",
+                                    "localizedName": "vinegar",
+                                    "image": "vinegar-(white).jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "localizedName": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "whisk.png"
+                                },
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "sauce-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Gorgonzola Butter-Wash: In a microwave safe bowl, add remaining tablespoon of Gorgonzola crumbles and 2 tablespoons of butter and melt.",
+                            "ingredients": [
+                                {
+                                    "id": 1011004,
+                                    "name": "gorgonzola",
+                                    "localizedName": "gorgonzola",
+                                    "image": "gorgonzola.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404762,
+                                    "name": "microwave",
+                                    "localizedName": "microwave",
+                                    "image": "microwave.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Whisk together to create a Gorgonzola butter-wash.",
+                            "ingredients": [
+                                {
+                                    "id": 1011004,
+                                    "name": "gorgonzola",
+                                    "localizedName": "gorgonzola",
+                                    "image": "gorgonzola.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "localizedName": "whisk",
+                                    "image": "whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Brush Gorgonzola butter-wash on the inside of the top & bottom buns and toast on the upper or outer edges of grill. Once rolls are lightly toasted, remove.",
+                            "ingredients": [
+                                {
+                                    "id": 1011004,
+                                    "name": "gorgonzola",
+                                    "localizedName": "gorgonzola",
+                                    "image": "gorgonzola.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                },
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Meat",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Mix first 7 ingredients together thoroughly then add salt & pepper. Form patties and pat together well.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Cook meat over medium heat - be sure to coat grill with non-stick spray.",
+                            "ingredients": [
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Cook about 8-10 minutes on each side.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Set meat on bottom bun and spoon Irish mustard sauce on top of meat patty.",
+                            "ingredients": [
+                                {
+                                    "id": 2046,
+                                    "name": "mustard",
+                                    "localizedName": "mustard",
+                                    "image": "regular-mustard.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add shredded cabbage and fold top and bottom together.",
+                            "ingredients": [
+                                {
+                                    "id": 11109,
+                                    "name": "cabbage",
+                                    "localizedName": "cabbage",
+                                    "image": "cabbage.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/the-blarney-burger-663252"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 32,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 45.0,
+            "healthScore": 12.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 461.22,
+            "id": 650181,
+            "title": "Little Italy Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/DXM5KVFD/little-italy-burger",
+            "image": "https://spoonacular.com/recipeImages/650181-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Little Italy Burger might be just the <b>American</b> recipe you are searching for. This recipe makes 4 servings with <b>961 calories</b>, <b>43g of protein</b>, and <b>71g of fat</b> each. For <b>$4.61 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up ground beef, butter, onion, and a few other things to make it today. 1 person has made this recipe and would make it again. It is brought to you by Foodista. It works best as a main course, and is done in around <b>around 45 minutes</b>. With a spoonacular <b>score of 44%</b>, this dish is solid. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/florentines-italy-741718\">Florentines (Italy)</a>, <a href=\"https://spoonacular.com/recipes/little-italy-pignoli-cookies-462407\">Little Italy Pignoli Cookies</a>, and <a href=\"https://spoonacular.com/recipes/little-italy-homemade-pizza-612358\">Little Italy Homemade Pizza</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Heat the grill to high. Divide the ground beef into 4 portions. Salt and pepper and press into patties.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 10023572,
+                                    "name": "ground beef",
+                                    "localizedName": "ground beef",
+                                    "image": "fresh-ground-beef.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Layer each patty with a slice of pancetta on top and bottom. Press the pancetta into the patty.",
+                            "ingredients": [
+                                {
+                                    "id": 10410123,
+                                    "name": "pancetta",
+                                    "localizedName": "pancetta",
+                                    "image": "pancetta.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Cut the onion and mozzarella into rounds.",
+                            "ingredients": [
+                                {
+                                    "id": 1026,
+                                    "name": "mozzarella",
+                                    "localizedName": "mozzarella",
+                                    "image": "mozzarella.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Melt the butter and mix it with the tomato paste and anchovy paste.",
+                            "ingredients": [
+                                {
+                                    "id": 10015002,
+                                    "name": "anchovy paste",
+                                    "localizedName": "anchovy paste",
+                                    "image": "anchovy-paste.png"
+                                },
+                                {
+                                    "id": 11887,
+                                    "name": "tomato paste",
+                                    "localizedName": "tomato paste",
+                                    "image": "tomato-paste.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 5,
+                            "step": "Cut the ciabatta buns and brush the insides with tomato-butter.",
+                            "ingredients": [
+                                {
+                                    "id": 93699,
+                                    "name": "ciabatta roll",
+                                    "localizedName": "ciabatta roll",
+                                    "image": "ciabatta-roll.png"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "CAREFULLY brush the grill with oil or use non-stick grill spray. Grill the patties and onions at the same time. Grill the patties for 3-5 minutes per side and the onions for 1-2 minutes per side.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 7,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Once you flip the burgers, lay the onion rounds over the top of each patty, followed by the mozzarella slices. The cheese will melt while the burgers finish cooking.",
+                            "ingredients": [
+                                {
+                                    "id": 1026,
+                                    "name": "mozzarella",
+                                    "localizedName": "mozzarella",
+                                    "image": "mozzarella.png"
+                                },
+                                {
+                                    "id": 1041009,
+                                    "name": "cheese",
+                                    "localizedName": "cheese",
+                                    "image": "cheddar-cheese.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Place the buns on the open grill and toast for 1 minute.",
+                            "ingredients": [
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 1,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 9,
+                            "step": "Once the buns are toasted, slather them with pesto.",
+                            "ingredients": [
+                                {
+                                    "id": 93698,
+                                    "name": "pesto",
+                                    "localizedName": "pesto",
+                                    "image": "basil-pesto.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Layer arugula leaves, tomato slices and a patty on each bun. Top and serve!",
+                            "ingredients": [
+                                {
+                                    "id": 11959,
+                                    "name": "arugula",
+                                    "localizedName": "arugula",
+                                    "image": "arugula-or-rocket-salad.jpg"
+                                },
+                                {
+                                    "id": 10511529,
+                                    "name": "tomato slices",
+                                    "localizedName": "tomato slices",
+                                    "image": "sliced-tomato.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "Serves 4.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/little-italy-burger-650181"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 17,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 52.0,
+            "healthScore": 15.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 217.43,
+            "id": 632342,
+            "title": "An American Beef Burger",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/XVQW332P/an-american-beef-burger",
+            "image": "https://spoonacular.com/recipeImages/632342-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "An American Beef Burger is an American main course. This recipe serves 4. One serving contains <b>571 calories</b>, <b>32g of protein</b>, and <b>31g of fat</b>. For <b>$2.17 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. This recipe is liked by 1 foodies and cooks. It is brought to you by Foodista. If you have , 2 lb beef mince, tomatoes, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. Overall, this recipe earns a <b>solid spoonacular score of 51%</b>. Try <a href=\"https://spoonacular.com/recipes/all-american-burger-244064\">All American Burger</a>, <a href=\"https://spoonacular.com/recipes/the-all-american-classic-bacon-cheese-burger-480050\">The All American Classic Bacon Cheese Burger</a>, and <a href=\"https://spoonacular.com/recipes/classic-all-american-burger-with-fried-sweet-pickles-397646\">Classic All-American Burger with Fried Sweet Pickles</a> for similar recipes.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Place the meat, egg, garlic shallot, salt and pepper in a bowl and mix through with your hands. Do this until everything is as even as possible - you wouldn't want to get a mouthful of onion or garlic!  Divide the burger mix into 4 equal parts.  Form each burger by rolling it into a ball in your hands and flatten a little, but keep them nice and thick.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 11677,
+                                    "name": "shallot",
+                                    "localizedName": "shallot",
+                                    "image": "shallots.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 1065062,
+                                    "name": "meat",
+                                    "localizedName": "meat",
+                                    "image": "whole-chicken.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Heat the oil in a heavy bottomed pan, when hot, place the burgers in the pan. The heat should be medium/hot.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "The cooking time will depend on how thick you make your burger and how you like them cooked. I find that my burgers take about 4 to 6 minutes on each side for a burger that is about 3cm thick (just over an inch) for a medium result.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "When the burgers are cooked, lift them out of the pan and set aside. Take your burger buns and place them face down in the pan, toast them in the burger flavour for a minute or two on each side.",
+                            "ingredients": [
+                                {
+                                    "id": 18350,
+                                    "name": "hamburger bun",
+                                    "localizedName": "hamburger bun",
+                                    "image": "hamburger-bun.jpg"
+                                },
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "To serve, place the little gem leaves on your bread, then the tomato, the burgers on top, lay over a couple of slices of pickle and some sliced raw onion on top.",
+                            "ingredients": [
+                                {
+                                    "id": 11937,
+                                    "name": "pickles",
+                                    "localizedName": "pickles",
+                                    "image": "dill-pickles.jpg"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "localizedName": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 18064,
+                                    "name": "bread",
+                                    "localizedName": "bread",
+                                    "image": "white-bread.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/an-american-beef-burger-632342"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 20,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 7,
+            "spoonacularScore": 65.0,
+            "healthScore": 17.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 450.87,
+            "id": 635350,
+            "title": "Blue Cheese Burgers",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/ZVXPQHB5/blue-cheese-burgers",
+            "image": "https://spoonacular.com/recipeImages/635350-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Blue Cheese Burgers might be just the main course you are searching for. One portion of this dish contains roughly <b>45g of protein</b>, <b>37g of fat</b>, and a total of <b>661 calories</b>. For <b>$4.51 per serving</b>, this recipe <b>covers 28%</b> of your daily requirements of vitamins and minerals. This recipe serves 4. 7 people have tried and liked this recipe. This recipe is typical of American cuisine. It is brought to you by Foodista. If you have kosher salt, egg, ground pepper, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. Overall, this recipe earns a <b>solid spoonacular score of 64%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/blue-cheese-burgers-246009\">Blue Cheese Burgers</a>, <a href=\"https://spoonacular.com/recipes/blue-cheese-burgers-306034\">Blue Cheese Burgers</a>, and <a href=\"https://spoonacular.com/recipes/blue-cheese-burgers-218703\">Blue-Cheese Burgers</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a bowl, add chuck, sirloin, bread crumbs, steak sauce, eggs, salt, and pepper, and mix gently with fork.",
+                            "ingredients": [
+                                {
+                                    "id": 18079,
+                                    "name": "breadcrumbs",
+                                    "localizedName": "breadcrumbs",
+                                    "image": "breadcrumbs.jpg"
+                                },
+                                {
+                                    "id": 27048,
+                                    "name": "steak sauce",
+                                    "localizedName": "steak sauce",
+                                    "image": "dark-sauce.jpg"
+                                },
+                                {
+                                    "id": 10023003,
+                                    "name": "porterhouse steak",
+                                    "localizedName": "porterhouse steak",
+                                    "image": "tbone-or-porterhouse-raw.jpg"
+                                },
+                                {
+                                    "id": 1002030,
+                                    "name": "pepper",
+                                    "localizedName": "pepper",
+                                    "image": "pepper.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Form 4 patties out of this mixture.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Cook the hamburgers patties on each side, then cover with aluminium foil.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404765,
+                                    "name": "aluminum foil",
+                                    "localizedName": "aluminum foil",
+                                    "image": "aluminum-foil.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Cut the sides of the bun, then grill in a stove-top grill until toasted.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404794,
+                                    "name": "stove",
+                                    "localizedName": "stove",
+                                    "image": "oven.jpg"
+                                },
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "Place patties and a slice of blue cheese in each bun.",
+                            "ingredients": [
+                                {
+                                    "id": 1004,
+                                    "name": "blue cheese",
+                                    "localizedName": "blue cheese",
+                                    "image": "blue-cheese.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "roll",
+                                    "localizedName": "roll",
+                                    "image": "dinner-yeast-rolls.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Serve hot.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/blue-cheese-burgers-635350"
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 10,
+            "gaps": "no",
+            "lowFodmap": true,
+            "aggregateLikes": 1,
+            "spoonacularScore": 71.0,
+            "healthScore": 30.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 387.61,
+            "id": 1096267,
+            "title": "Turkey Burgers with Slaw",
+            "readyInMinutes": 30,
+            "servings": 2,
+            "sourceUrl": "https://www.foodista.com/recipe/XVMGHL2B/aip-turkey-burgers-with-slaw-recipe",
+            "image": "https://spoonacular.com/recipeImages/1096267-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making Turkey Burgers with Slaw at home. This recipe makes 2 servings with <b>422 calories</b>, <b>46g of protein</b>, and <b>25g of fat</b> each. For <b>$3.88 per serving</b>, this recipe <b>covers 28%</b> of your daily requirements of vitamins and minerals. 1 person found this recipe to be scrumptious and satisfying. It works well as a rather expensive main course for <b>The Fourth Of July</b>. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly</b> diet. This recipe from Foodista requires coconut, salt, cabbage, and juice of lime. From preparation to the plate, this recipe takes about <b>30 minutes</b>. With a spoonacular <b>score of 74%</b>, this dish is pretty good. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/turkey-burgers-with-creamy-romaine-slaw-16680\">Turkey Burgers With Creamy Romaine Slaw</a>, <a href=\"https://spoonacular.com/recipes/turkey-burgers-with-romaine-and-carrot-slaw-569450\">Turkey Burgers with Romaine and Carrot Slaw</a>, and <a href=\"https://spoonacular.com/recipes/thai-turkey-burgers-with-spicy-sriracha-slaw-1031367\">Thai Turkey Burgers with Spicy Sriracha Slaw</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "fodmap friendly"
+            ],
+            "occasions": [
+                "father's day",
+                "4th of july",
+                "summer"
+            ],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "The Patties",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Preheat the oven to 320F (160C).Season turkey with salt and form into 4 large patties.",
+                            "ingredients": [
+                                {
+                                    "id": 5165,
+                                    "name": "whole turkey",
+                                    "localizedName": "whole turkey",
+                                    "image": "turkey-raw-whole.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg",
+                                    "temperature": {
+                                        "number": 320.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Heat olive oil in a pan. Grill patties until golden on both sides.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "localizedName": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404706,
+                                    "name": "grill",
+                                    "localizedName": "grill",
+                                    "image": "grill.jpg"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Transfer patties to the cooking sheet and bake for 15 minutes.The Toppings",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 15,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Combine the cabbage and coconut cream. Season with lime juice and salt. Stir in chopped cilantro.",
+                            "ingredients": [
+                                {
+                                    "id": 12115,
+                                    "name": "coconut cream",
+                                    "localizedName": "coconut cream",
+                                    "image": "coconut-cream.jpg"
+                                },
+                                {
+                                    "id": 9160,
+                                    "name": "lime juice",
+                                    "localizedName": "lime juice",
+                                    "image": "lime-juice.png"
+                                },
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "localizedName": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 11109,
+                                    "name": "cabbage",
+                                    "localizedName": "cabbage",
+                                    "image": "cabbage.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "localizedName": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 6,
+                            "step": "Add coconut to a clean, dry pan and toast until golden. Set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 12104,
+                                    "name": "coconut",
+                                    "localizedName": "coconut",
+                                    "image": "coconut.jpg"
+                                },
+                                {
+                                    "id": 18070,
+                                    "name": "toast",
+                                    "localizedName": "toast",
+                                    "image": "toast"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "step": "Serve the turkey burgers on lettuce, topped with the slaw and toasted coconut.",
+                            "ingredients": [
+                                {
+                                    "id": 99026,
+                                    "name": "turkey burgers",
+                                    "localizedName": "turkey burgers",
+                                    "image": "meat-ground.jpg"
+                                },
+                                {
+                                    "id": 12104,
+                                    "name": "coconut",
+                                    "localizedName": "coconut",
+                                    "image": "coconut.jpg"
+                                },
+                                {
+                                    "id": 11252,
+                                    "name": "lettuce",
+                                    "localizedName": "lettuce",
+                                    "image": "iceberg-lettuce.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/turkey-burgers-with-slaw-1096267"
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 13,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 51.0,
+            "healthScore": 14.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 228.31,
+            "id": 636595,
+            "title": "Butternut Squash Quinoa Burgers",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/WTTVRVNH/butternut-squash-quinoa-burgers",
+            "image": "https://spoonacular.com/recipeImages/636595-312x231.jpg",
+            "imageType": "jpg",
+            "summary": "Forget going out to eat or ordering takeout every time you crave American food. Try making Butternut Squash Quinoa Burgers at home. This recipe makes 4 servings with <b>385 calories</b>, <b>14g of protein</b>, and <b>23g of fat</b> each. For <b>$2.28 per serving</b>, this recipe <b>covers 20%</b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>lacto ovo vegetarian</b> diet. 1 person has made this recipe and would make it again. It is brought to you by Foodista. A mixture of ground cinnamon, ground pepper, ground turmeric, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. It works well as a main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 50%</b>. This score is good. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/quinoa-with-butternut-squash-cranberries-pistachios-quinoa-stuffing-527037\">Quinoa with Butternut Squash, Cranberries & Pistachios (Quinoa “Stuffing”)</a>, <a href=\"https://spoonacular.com/recipes/butternut-squash-apple-sage-burgers-621406\">Butternut Squash Apple Sage Burgers</a>, and <a href=\"https://spoonacular.com/recipes/butternut-squash-quinoa-salad-709970\">Butternut Squash Quinoa Salad</a>.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a small saucepan, bring 1/2 cup water to a boil.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "localizedName": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404669,
+                                    "name": "sauce pan",
+                                    "localizedName": "sauce pan",
+                                    "image": "sauce-pan.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add quinoa, cover, and reduce heat to low. Cook until liquid is absorbed, ~ 3-5 minutes. Set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 20035,
+                                    "name": "quinoa",
+                                    "localizedName": "quinoa",
+                                    "image": "uncooked-quinoa.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "In a food processor, pulse butternut squash, 2 oz. feta, 1 1/2 teaspoon cumin, red pepper, cinnamon, turmeric, sea salt and pepper until just combined. Fold in the quinoa, the walnuts and the egg.",
+                            "ingredients": [
+                                {
+                                    "id": 11485,
+                                    "name": "butternut squash",
+                                    "localizedName": "butternut squash",
+                                    "image": "butternut-squash.jpg"
+                                },
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 11821,
+                                    "name": "red pepper",
+                                    "localizedName": "red pepper",
+                                    "image": "red-pepper.jpg"
+                                },
+                                {
+                                    "id": 2010,
+                                    "name": "cinnamon",
+                                    "localizedName": "cinnamon",
+                                    "image": "cinnamon.jpg"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "localizedName": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 12155,
+                                    "name": "walnuts",
+                                    "localizedName": "walnuts",
+                                    "image": "walnuts.jpg"
+                                },
+                                {
+                                    "id": 20035,
+                                    "name": "quinoa",
+                                    "localizedName": "quinoa",
+                                    "image": "uncooked-quinoa.png"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "localizedName": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 1019,
+                                    "name": "feta cheese",
+                                    "localizedName": "feta cheese",
+                                    "image": "feta.png"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "food-processor.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Form mixture into four patties. In a large skillet, with a splash of coconut oil or organic butter cook burgers on medium heat until cooked through and crispy on the outside, 8-10 minutes per side.",
+                            "ingredients": [
+                                {
+                                    "id": 4047,
+                                    "name": "coconut oil",
+                                    "localizedName": "coconut oil",
+                                    "image": "oil-coconut.jpg"
+                                },
+                                {
+                                    "id": 1001,
+                                    "name": "butter",
+                                    "localizedName": "butter",
+                                    "image": "butter-sliced.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Meanwhile, in a small bowl, combine remaining feta, 1/4 teaspoon lemon zest, lemon juice from half a lemon, and dash of cumin (~1/2 teaspoon). Season with salt and pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "localizedName": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 9156,
+                                    "name": "lemon zest",
+                                    "localizedName": "lemon zest",
+                                    "image": "zest-lemon.jpg"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "localizedName": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 9150,
+                                    "name": "lemon",
+                                    "localizedName": "lemon",
+                                    "image": "lemon.png"
+                                },
+                                {
+                                    "id": 1019,
+                                    "name": "feta cheese",
+                                    "localizedName": "feta cheese",
+                                    "image": "feta.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Serve burgers on a whole wheat roll topped with a few baby greens and creamy feta sauce.",
+                            "ingredients": [
+                                {
+                                    "id": 18351,
+                                    "name": "whole wheat rolls",
+                                    "localizedName": "whole wheat rolls",
+                                    "image": "whole-wheat-hamburger-buns.jpg"
+                                },
+                                {
+                                    "id": 21052,
+                                    "name": "mixed baby greens",
+                                    "localizedName": "mixed baby greens",
+                                    "image": "mixed-greens-or-mesclun.jpg"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                },
+                                {
+                                    "id": 1019,
+                                    "name": "feta cheese",
+                                    "localizedName": "feta cheese",
+                                    "image": "feta.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/butternut-squash-quinoa-burgers-636595"
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 3,
+            "gaps": "no",
+            "lowFodmap": false,
+            "aggregateLikes": 1,
+            "spoonacularScore": 31.0,
+            "healthScore": 4.0,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 36.94,
+            "id": 664929,
+            "title": "Walnut Lentil Burgers with Tarragon",
+            "readyInMinutes": 45,
+            "servings": 12,
+            "sourceUrl": "https://www.foodista.com/recipe/JGTMTSR6/walnut-lentil-burgers-with-tarragon",
+            "image": "https://spoonacular.com/recipeImages/664929-312x231.png",
+            "imageType": "png",
+            "summary": "The recipe Walnut Lentil Burgers with Tarragon is ready <b>in around around 45 minutes</b> and is definitely an awesome <b>gluten free, dairy free, and lacto ovo vegetarian</b> option for lovers of American food. This recipe makes 12 servings with <b>120 calories</b>, <b>5g of protein</b>, and <b>5g of fat</b> each. For <b>37 cents per serving</b>, this recipe <b>covers 8%</b> of your daily requirements of vitamins and minerals. It is brought to you by Foodista. 1 person has tried and liked this recipe. A mixture of sea salt, tarragon, onion, and a handful of other ingredients are all it takes to make this recipe so delicious. Taking all factors into account, this recipe <b>earns a spoonacular score of 28%</b>, which is not so great. <a href=\"https://spoonacular.com/recipes/lentil-walnut-burgers-33853\">Lentil Walnut Burgers</a>, <a href=\"https://spoonacular.com/recipes/spicy-lentil-walnut-burgers-33651\">Spicy Lentil-walnut Burgers</a>, and <a href=\"https://spoonacular.com/recipes/vegan-lentil-walnut-burgers-33798\">Vegan Lentil-walnut Burgers</a> are very similar to this recipe.",
+            "cuisines": [
+                "American"
+            ],
+            "dishTypes": [],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a skillet, heat about a tablespoon of sallower oil.",
+                            "ingredients": [
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "localizedName": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add the walnuts, carrot, mushrooms, parsley, onion and sea salt. Saut for about 5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 11260,
+                                    "name": "mushrooms",
+                                    "localizedName": "mushrooms",
+                                    "image": "mushrooms.png"
+                                },
+                                {
+                                    "id": 1012047,
+                                    "name": "sea salt",
+                                    "localizedName": "sea salt",
+                                    "image": "salt.jpg"
+                                },
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                },
+                                {
+                                    "id": 12155,
+                                    "name": "walnuts",
+                                    "localizedName": "walnuts",
+                                    "image": "walnuts.jpg"
+                                },
+                                {
+                                    "id": 11124,
+                                    "name": "carrot",
+                                    "localizedName": "carrot",
+                                    "image": "sliced-carrot.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Transfer to a large bowl. In the bowl of a food processor, process the lentils (be sure to rinse and drain them if youre using canned), 1 cup of brown rice and egg.",
+                            "ingredients": [
+                                {
+                                    "id": 20040,
+                                    "name": "brown rice",
+                                    "localizedName": "brown rice",
+                                    "image": "uncooked-brown-rice.png"
+                                },
+                                {
+                                    "id": 10316069,
+                                    "name": "lentils",
+                                    "localizedName": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                },
+                                {
+                                    "id": 1123,
+                                    "name": "egg",
+                                    "localizedName": "egg",
+                                    "image": "egg.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "localizedName": "food processor",
+                                    "image": "food-processor.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Transfer to the bowl with the veggies and add the remaining 1 cup of brown rice.",
+                            "ingredients": [
+                                {
+                                    "id": 20040,
+                                    "name": "brown rice",
+                                    "localizedName": "brown rice",
+                                    "image": "uncooked-brown-rice.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "Mix well and form into patties,  cup at a time (I used a  cup measuring cup).",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404766,
+                                    "name": "measuring cup",
+                                    "localizedName": "measuring cup",
+                                    "image": "measuring-cup.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "step": "Heat a skillet to medium low heat and add a tablespoons of olive oil. Cook the patties, about 5 at a time, for 3-4 minutes on each side.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "localizedName": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 4,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 7,
+                            "step": "Let them cool a little before serving.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "spoonacularSourceUrl": "https://spoonacular.com/walnut-lentil-burgers-with-tarragon-664929"
+        }
+    ]
+    
+}

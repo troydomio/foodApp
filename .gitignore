@@ -1,0 +1,9 @@
+.env
+node_modules/
+.DS_Store
+modal.css
+card.html
+pasta.js
+pasta.html
+res.html
+ingredients.json
