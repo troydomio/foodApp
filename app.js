@@ -1,5 +1,4 @@
 const dotenv = require('dotenv').config();
-console.log(process.env)
 const API_KEY = process.env.API_KEY;
 
 const form = document.querySelector('#search-form')
